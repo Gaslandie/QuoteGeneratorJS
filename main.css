@@ -42,7 +42,7 @@ body{
     font-size: 1.3rem;
     color: black;
     background-color:white;
-    height: 80%;
+    height: auto;
     width: 80%;
     margin: 10px;
     border-radius: 10px;
